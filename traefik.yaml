@@ -28,6 +28,6 @@ providers:
 certificatesResolvers:
   myresolver:
     acme:
-      email: "foo.bar@mydomain.com"
+      email: "webmaster@daqg-info.ovh"
       storage: "/letsencrypt/acme.json"
       tlsChallenge: {}
